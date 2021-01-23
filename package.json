@@ -1,0 +1,16 @@
+{
+  "name": "mybot",
+  "version": "1.0.0",
+  "description": "API chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isadora Alves",
+  "license": "ISC",
+  "dependencies": {
+    "blip-sdk": "^10.0.0",
+    "lime-transport-websocket": "^2.0.3",
+    "node-fetch": "^2.6.1"
+  }
+}

@@ -1,0 +1,271 @@
+[
+    {
+        "initial_message": [
+            {
+                "type": "text/plain",
+                "content": "Olá :) , espero que esteja tudo bem com você. Sou a Luci, responsável por passar os valores da Take.",
+                "to": "3af67f6a-0de5-4284-ae19-38b9fca3c7fe.luci7@0mn.io/default"
+            },
+            {
+                "type": "text/plain",
+                "content": "Ok. Entendo. Mesmo eu sendo um robô e não tendo consciência sobre o que é valores, posso te ajudar de alguma forma.",
+                "to": "3af67f6a-0de5-4284-ae19-38b9fca3c7fe.luci7@0mn.io/default"
+            },
+            {
+                "type": "text/plain",
+                "content": "Vamos lá..",
+                "to": "3af67f6a-0de5-4284-ae19-38b9fca3c7fe.luci7@0mn.io/default"
+            },
+            {
+                "type": "text/plain",
+                "content": "A cultura Take tem como base 6 valores que são:",
+                "to": "3af67f6a-0de5-4284-ae19-38b9fca3c7fe.luci7@0mn.io/default"
+            }
+        ],
+        "messages_carousel": [
+            {
+                "type": "text/plain",
+                "content": "A Take é feita por pessoas e para pessoas. Nossas relações são transparentes e humanizadas. Cada cliente, cada parceiro e cada Take.Ser é valorizado e respeitado em sua individualidade e está presente em cada bit de nossa empresa.",
+                "to": "3af67f6a-0de5-4284-ae19-38b9fca3c7fe.luci7@0mn.io/default"
+            },
+            {
+                "type": "text/plain",
+                "content": "Sabemos que o que faz uma equipe incrível são pessoas incríveis em cooperação. Assim, cada Take.ser busca cumprir sua parte para garantir a vitória do time.",
+                "to": "3af67f6a-0de5-4284-ae19-38b9fca3c7fe.luci7@0mn.io/default"
+            },
+            {
+                "type": "text/plain",
+                "content": "Com nosso espírito geek e nossa disposição para aprender e crescer, buscamos estar sempre um passo a frente e superarmos os mais exigentes padrões.",
+                "to": "3af67f6a-0de5-4284-ae19-38b9fca3c7fe.luci7@0mn.io/default"
+            },
+            {
+                "type": "text/plain",
+                "content": "Apostamos em profissionais que chamam a responsabilidade para si e que, sem medo de ousar, transformem o mundo a sua volta, com muita competência e criatividade.",
+                "to": "3af67f6a-0de5-4284-ae19-38b9fca3c7fe.luci7@0mn.io/default"
+            },
+            {
+                "type": "text/plain",
+                "content": "Mantemos o foco no essencial. Menos é mais.",
+                "to": "3af67f6a-0de5-4284-ae19-38b9fca3c7fe.luci7@0mn.io/default"
+            },
+            {
+                "type": "text/plain",
+                "content": "Não temos medo de sonhar grande, pois sabemos que temos talento e determinação para realizar coisas incíveis!",
+                "to": "3af67f6a-0de5-4284-ae19-38b9fca3c7fe.luci7@0mn.io/default"
+            },
+            {
+                "type": "text/plain",
+                "content": "Você deve criar uma API que faça integração com a API publica do Github, e um chatbot em nossa plataforma que consuma a API para exibir um carrossel com informações sobre os repositórios da Take no Github. Para criar a API, você pode usar C#, Java ou Javascript.",
+                "to": "3af67f6a-0de5-4284-ae19-38b9fca3c7fe.luci7@0mn.io/default"
+            }
+        ],
+        "teste": [
+            {
+                "itemType": "application/vnd.lime.document-select+json",
+                "items": [
+                    {
+                        "header": {
+                            "type": "application/vnd.lime.media-link+json",
+                            "value": {
+                                "title": "TakeBe",
+                                "text": "Pessoas em primeiro lugar",
+                                "type": "image/jpeg",
+                                "uri": "https://lh3.googleusercontent.com/pw/ACtC-3elpS9m0hOWqHB6yBsAueEOG1Mc-t9zGaxesMrxxTprf0dEHzJmmTA2sZbheZhPQut3sC8wEyA9eFB6C_D3HW0AvGlpaxoJf--MkLugiSxRC1QMHrKRT6rJEgKK3upbPZ5jrXmt1yuytxCKk21IbQ3a=w321-h165-no?authuser=0"
+                            }
+                        },
+                        "options": [
+                            {
+                                "label": {
+                                    "type": "text/plain",
+                                    "value": "Saber mais"
+                                },
+                                "value": {
+                                    "type": "application/json",
+                                    "value": {
+                                        "key1": "takeBe"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "header": {
+                            "type": "application/vnd.lime.media-link+json",
+                            "value": {
+                                "title": "Take.Team",
+                                "text": "Em nosso time, cada pessoa dá o seu melhor",
+                                "type": "image/jpeg",
+                                "uri": "https://lh3.googleusercontent.com/pw/ACtC-3dD-4ehJ8GXwpXj8OB15A9PDykofVdVI34oN52FLvrTRD2d1HVr6Iwb0AIWXUdFOHKxg5qPzOsIyd70oQ5enqSpYgzNOeFX0Vi4cc7u_tggv9fJT2YCeKfZ0jo-1LxZ2iPmIvQJFUEFmSZTSENhCpTK=w318-h165-no?authuser=0"
+                            }
+                        },
+                        "options": [
+                            {
+                                "label": {
+                                    "type": "text/plain",
+                                    "value": "Saber mais"
+                                },
+                                "value": {
+                                    "type": "application/json",
+                                    "value": {
+                                        "key1": "takeTeam"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "header": {
+                            "type": "application/vnd.lime.media-link+json",
+                            "value": {
+                                "title": "Take.Execellence",
+                                "text": "Excelente é o nosso ponto de partida",
+                                "type": "image/jpeg",
+                                "uri": "https://lh3.googleusercontent.com/pw/ACtC-3dWxlEA1QVm9dl5UCzyuymmZ7Su4kggs-vyJdRblrxjzFVyrXRWlip3ytuGo8FFtt8IrmjisBFmVpTHOxPsRWgPNd7PHfpQGZpI2FMXUA1dbRz27Qws-Q2A1fk7sJGHU5JxK5SwC0VENcVXPlJVLn6M=w314-h169-no?authuser=0"
+                            }
+                        },
+                        "options": [
+                            {
+                                "label": {
+                                    "type": "text/plain",
+                                    "value": "Saber mais"
+                                },
+                                "value": {
+                                    "type": "application/json",
+                                    "value": {
+                                        "key1": "takeEx"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "header": {
+                            "type": "application/vnd.lime.media-link+json",
+                            "value": {
+                                "title": "Take.Charge",
+                                "text": "Apropriar-se para fazer a diferença",
+                                "type": "image/jpeg",
+                                "uri": "https://lh3.googleusercontent.com/pw/ACtC-3eBmrlZwxLxU9SW5Q0YM2veVjCOg1q1jdIE2I6bX3drugXDuEnXFVop568M7krgKiSyLKx85JaIn3igF9lDGvZ4tsc-yJJPRzA5lzunbSijLY1mGaFnVSAc-jRVDDbCHsMR5iqutShBxh1TLsLPQN96=w309-h170-no?authuser=0"
+                            }
+                        },
+                        "options": [
+                            {
+                                "label": {
+                                    "type": "text/plain",
+                                    "value": "Saber mais"
+                                },
+                                "value": {
+                                    "type": "application/json",
+                                    "value": {
+                                        "key1": "takeCharge"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "header": {
+                            "type": "application/vnd.lime.media-link+json",
+                            "value": {
+                                "title": "Take.Simple",
+                                "text": "Simplicidade é o úlitimo grau de sofisticação",
+                                "type": "image/jpeg",
+                                "uri": "https://lh3.googleusercontent.com/pw/ACtC-3dmbXT0zC-TnkhNqY8Qi7y8XgffKI-E3YISV7FhJUGEduZBTxNIEfwyIPmKXO6HooUavSLwrdXse4KggBL2lOtbn_ELK52HyXZ0J9lABy8PQS3156ZTMRJ0_w2tAJ_DCE8Uc8j9Lwj1rM_uCy0syvcK=w311-h172-no?authuser=0"
+                            }
+                        },
+                        "options": [
+                            {
+                                "label": {
+                                    "type": "text/plain",
+                                    "value": "Saber mais"
+                                },
+                                "value": {
+                                    "type": "application/json",
+                                    "value": {
+                                        "key1": "takeSimple"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "header": {
+                            "type": "application/vnd.lime.media-link+json",
+                            "value": {
+                                "title": "Take.Higher",
+                                "text": "Pensar grande e ir além",
+                                "type": "image/jpeg",
+                                "uri": "https://lh3.googleusercontent.com/pw/ACtC-3ePKpNtwVSjG6MQNPoHjXdHFIG66wYYL3O_iUYuZ8fy_dF6yjLDMHv286FZAkZZS8OQNas23r0SDl163ByKU8amN1c1PNfv02LYk5-pj-WimPxk-uNiwTCiZrpxUY-zfQ9rGEDOq97BX5Wm-asJZmzf=w311-h162-no?authuser=0"
+                            }
+                        },
+                        "options": [
+                            {
+                                "label": {
+                                    "type": "text/plain",
+                                    "value": "Saber mais"
+                                },
+                                "value": {
+                                    "type": "application/json",
+                                    "value": {
+                                        "key1": "takeHigher"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "header": {
+                            "type": "application/vnd.lime.media-link+json",
+                            "value": {
+                                "title": "Desafio",
+                                "text": "------",
+                                "type": "image/jpeg",
+                                "uri": "https://lh3.googleusercontent.com/pw/ACtC-3dwSyq-f7LH_h77eNUppX8AJH-L7qfzu_-y3oOaM8hFDnHnmVVMIinJx-CnnRYI3uplNWW_7L2A2rinQIK0VeuIsbrJ4OCxok0PmKDFS6AlDG7NPVH-CBAfC6NYw-dpVVgL_OYYDRlPo-exKJjt-632=w323-h175-no?authuser=0"
+                            }
+                        },
+                        "options": [
+                            {
+                                "label": {
+                                    "type": "text/plain",
+                                    "value": "Fazer desafio"
+                                },
+                                "value": {
+                                    "type": "application/json",
+                                    "value": {
+                                        "key1": "desafio"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "message_final": [
+            {
+                "scope": "immediate",
+                "text": "Caso queira saber mais sobre outros valores é so falar!",
+                "options": [
+                    {
+                        "text": "Be"
+                    },
+                    {
+                        "text": "Team"
+                    },
+                    {
+                        "text": "Excellence"
+                    },
+                    {
+                        "text": "Charge"
+                    },
+                    {
+                        "text": "Simple"
+                    },
+                    {
+                        "text": "Higher"
+                    }
+                ]
+            }
+        ]
+    }
+]
